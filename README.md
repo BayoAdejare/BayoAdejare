@@ -9,6 +9,10 @@
 
 ### Projects 🔭
 
+### Stats 📈
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bayoadejare&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bayoadejare&layout=compact&theme=dark)
 
 <!--
 **BayoAdejare/BayoAdejare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
