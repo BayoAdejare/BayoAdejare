@@ -21,6 +21,26 @@ I'm always excited to expand my knowledge and stay up-to-date with the latest tr
 
 ### Projects 🔭
 
+**Real-time Data Processing Pipeline with Spark Streaming**
+
++ Developed a robust real-time data processing pipeline using Apache Spark Streaming and Kafka
++ Ingested high-volume streaming data from IoT devices and processed it in real-time
++ Implemented windowed operations and stateful transformations to analyze time-series data
++ Utilized Spark SQL for complex aggregations and Delta Lake for reliable storage
++ Deployed the pipeline on AWS EMR for scalability and cost-effectiveness
+
+**Data Warehouse Optimization**
+
++ Designed and implemented a star schema data model for a large-scale data warehouse
++ Optimized query performance by creating appropriate indexes and partitioning strategies
++ Reduced query execution time by 60% through careful schema design and query tuning
+
+**ETL Pipeline Automation**
+
++ Built an automated ETL pipeline using Apache Airflow to process daily batches of data
++ Integrated multiple data sources and implemented data quality checks
++ Reduced manual intervention by 87% and improved data freshness
+
 ### Stats 📈
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bayoadejare&show_icons=true&theme=dark)
