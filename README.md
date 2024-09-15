@@ -12,6 +12,13 @@ I'm a passionate Data/ML Engineer with a knack for building robust, scalable dat
 
 ### Learning 🌱
 
+I'm always excited to expand my knowledge and stay up-to-date with the latest trends in data engineering. Currently, I'm focusing on:
+
++ **Generative AI**: Exploring applications of generative models in data pipelines and analytics
++ **MLOps**: Implementing best practices for deploying and maintaining machine learning models in production
++ **Graph Databases**: Learning Neo4j for handling complex, interconnected data
++ **Data Mesh Architecture**: Studying decentralized data management approaches
+
 ### Projects 🔭
 
 ### Stats 📈
