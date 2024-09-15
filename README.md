@@ -4,6 +4,11 @@
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-teal?style=flat&logo=kaggle&logoColor=deepblue&link=https://www.kaggle.com/adebayo)](https://www.kaggle.com/adebayo)
 
 ### About Me 👋
+Hi, I'm Bayo.
+
+🚀 Data/ML Engineer 🤖 | 👨‍🔧 Pipeline Architect | 🐍 Python/Analytics Enthusiast 📊
+
+I'm a passionate Data/ML Engineer with a knack for building robust, scalable data pipelines and turning raw data into actionable insights. With years of experience in the field, I've worked on projects ranging from real-time streaming analytics to large-scale batch processing systems. My expertise extends to machine learning, where I've implemented ML pipelines and deployed models at scale, bridging the gap between data engineering and data science.
 
 ### Learning 🌱
 
