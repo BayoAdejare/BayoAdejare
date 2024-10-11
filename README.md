@@ -44,5 +44,15 @@ I'm always excited to expand my knowledge and stay up-to-date with the latest tr
 
 ### Stats 📈
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bayoadejare&show_icons=true&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bayoadejare&layout=compact&theme=dark)
+<p align="center">
+  <a href="https://github.com/bayoadejare" target="_blank">
+    <img
+      height="150em"
+      src="https://github-readme-stats.vercel.app/api?username=bayoadejare&show_icons=true&theme=dark"
+    />
+    <img
+      height="150em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayoadejare&layout=compact&theme=dark"
+    />
+  </a>
+</p>
